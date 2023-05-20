@@ -1,0 +1,13 @@
+/Users/kawaiota/opt/anaconda3/bin:
+/Users/kawaiota/opt/anaconda3/condabin:
+/Users/kawaiota/.pyenv/shims:
+/Users/kawaiota/.pyenv/bin:
+/Users/kawaiota/.pyenv/bin:
+/Library/Frameworks/Python.framework/Versions/3.10/bin:
+/usr/local/bin:
+/usr/bin:
+/bin:
+/usr/sbin:
+/sbin:
+/Library/TeX/texbin:
+/Library/Apple/usr/bin
